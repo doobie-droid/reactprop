@@ -1,3 +1,4 @@
+import react from "react";
 const contacts = [
   {
     name: "Beyonce",
@@ -21,3 +22,4 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+export default contacts;
